@@ -82,6 +82,7 @@ def lambda_handler(event, context):
                 "error": str(error)
             })
         }
+#--- 課題 ---#
 
 #--------------デフォルトコード--------------#
 # # lambda/index.py
